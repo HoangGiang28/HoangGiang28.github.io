@@ -12,20 +12,20 @@ import SectionHeader from "./SectionHeader.vue";
     </SectionHeader>
     <div class="flex flex-col gap-4 md:flex-row md:justify-center">
       <EventDetail
-        address="Nhà hàng Chen 1, 300 Trường Chinh, Vị Xuyên, tp. Nam Định"
+        address="Trung tâm tiệc cưới Crown Place, Số 19 phố Bùi Sính, tt Tiền Hải, Thái Bình"
         class="order-0 md:order-first md:basis-[20%]"
-        img-src="/nam-dinh.jpg"
-        maps-url="https://www.google.com/maps/place/Nh%C3%A0+h%C3%A0ng+Chen+1/@20.4377077,106.1802895,21z/data=!4m6!3m5!1s0x3135e7c87788ca69:0x553429ab6b0b85e3!8m2!3d20.4378655!4d106.1805004!16s%2Fg%2F11gxtl5rx9?entry=ttu"
-        time="16:00 31/12/2023"
+        img-src="/banhcay.jpg"
+        maps-url="https://www.google.com/maps/place/Crown+Restaurant/@20.4043481,106.4988413,18z/data=!3m1!4b1!4m6!3m5!1s0x3135f90add53e5c1:0x210cdc104411d717!8m2!3d20.4043456!4d106.5001288!16s%2Fg%2F11fk4pcvkx?entry=ttu"
+        time="10:30 01/05/2024"
         title="TIỆC CƯỚI NHÀ CHÚ RỂ"
       />
       <EventCalendar class="md:order-0 order-first basis-[60%]" />
       <EventDetail
-        address="Xóm 4, Phương Châu, Phú Phương, Ba Vì, tp. Hà Nội"
+        address="Đồng Mái, Phù Ủng, Ân Thi, Hưng Yên"
         class="md:basis-[20%]"
-        img-src="/ba-vi.jpg"
-        maps-url="https://www.google.com/maps/place/%C4%90%C3%ACnh+Ph%C6%B0%C6%A1ng+Ch%C3%A2u/@21.2467033,105.422279,279m/data=!3m1!1e3!4m15!1m8!3m7!1s0x3134f344eafb833d:0xcbd407485ccb31a4!2zUGjGsMahbmcgQ2jDonUsIFBow7ogUGjGsMahbmcsIEJhIFbDrCwgSGFub2ksIFZpZXRuYW0!3b1!8m2!3d21.246332!4d105.4229159!16s%2Fg%2F1td30j3j!3m5!1s0x3134f344910bcddb:0xb89c0c38e44e05ca!8m2!3d21.2468191!4d105.4233931!16s%2Fg%2F11cnbl5y7f?entry=ttu"
-        time="15:30 30/12/2023"
+        img-src="/hungyen.jpg"
+        maps-url="https://www.google.com/maps/place/Th%C3%B4n+la+m%C3%A1t/@20.8681073,106.1227785,16z/data=!4m14!1m7!3m6!1s0x3135bd30c781fbb3:0x66c7b4e36c3019cd!2zQ2jDuWEgUGjDumMgTMOibSAoTGEgTcOhdCk!8m2!3d20.8781917!4d106.127779!16s%2Fg%2F11f4ldmwh_!3m5!1s0x3135bd13e7d3066b:0x51ad59b56ba3a7a7!8m2!3d20.8687569!4d106.1260381!16s%2Fg%2F11sd6x13hz?entry=ttu"
+        time="16:30 01/05/2024"
         title="TIỆC CƯỚI NHÀ CÔ DÂU"
       />
     </div>
